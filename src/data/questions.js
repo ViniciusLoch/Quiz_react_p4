@@ -27,7 +27,7 @@ const data = [
   {
     question:
       "O que é React JS?",
-    options: ["Uma poderosa bbiblioteca JavaScript", "Uma linguagem de programação",
+    options: ["Uma poderosa biblioteca JavaScript", "Uma linguagem de programação",
      "Um servidor cloud", "Todas as respostas anteriores"],
     answer: "Uma poderosa biblioteca JavaScript",
   },
